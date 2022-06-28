@@ -87,7 +87,7 @@ You Can:
 
 ### Built With
 
-* [DotNet Core 5](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+* [DotNet Core 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 * [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
